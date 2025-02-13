@@ -1,4 +1,4 @@
-**# Machine-Learning-Based-Early-Stage-Lung-Cancer-Detection**
+# Machine-Learning-Based-Early-Stage-Lung-Cancer-Detection
 
 This project focuses on the development of an early-stage lung cancer detection system using machine learning techniques. It begins with an in-depth analysis of various lung cancer risk factors prevalent in Sri Lanka and then employs a predictive machine learning model to assess the risk of lung cancer in the general population.
 
