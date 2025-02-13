@@ -19,6 +19,7 @@ The goal is to provide a user-friendly web interface where individuals can input
 
 
 **Project Structure**
+
 ![image](https://github.com/user-attachments/assets/d8226463-5b0e-466f-959d-351563353bfb)
 
 
