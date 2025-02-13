@@ -19,19 +19,7 @@ The goal is to provide a user-friendly web interface where individuals can input
 
 
 **Project Structure**
-
-Machine-Learning-Based-Early-Stage-Lung-Cancer-Detection/
-│
-├── app.py              # Flask application for the web interface and model interaction
-├── Random Forest_model.pkl  # Trained Random Forest model
-├── requirements.txt    # Dependencies for the project
-├── templates/
-│   └── index.html      # Frontend HTML page
-├── static/
-│   └── css/            # Stylesheets for the frontend
-├── data/
-│   └── dataset.csv     # The dataset used for training the model
-└── README.md           # Project documentation
+![image](https://github.com/user-attachments/assets/d8226463-5b0e-466f-959d-351563353bfb)
 
 
 **Installation**
